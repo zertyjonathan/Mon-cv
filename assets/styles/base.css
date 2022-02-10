@@ -1,0 +1,30 @@
+body,html {
+    padding: 0;
+    margin: 0;
+    background-color: #fff;
+    font-family: sans-serif;
+}
+
+.header, .content, .sidebar, .footer{
+    padding: 20px 34px;
+    color: white;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: #2b2024;;
+}
+
+.content{
+    background-color: #fd0054;
+}
+
+.sidebar{
+    background-color: #a80038;
+    color: white;
+}
+
+.footer{
+    background-color: #2b2024;
+    color:white;
+}
